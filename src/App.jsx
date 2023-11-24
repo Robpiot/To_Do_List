@@ -1,6 +1,5 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useEffect } from "react";
 
-const LSKEY = "inputs";
 const Title = () => (
   <h1 className="w-full p-20 text-4xl text-center bg-teal-200 ">To Do List</h1>
 );
