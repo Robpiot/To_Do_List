@@ -1,6 +1,6 @@
 # Vite React Todo List
 
-[![Build Status](https://img.shields.io/github/workflow/status/your-username/vite-react-todo-list/Build%20and%20Test)](https://github.com/your-username/vite-react-todo-list/actions)
+[![Build Status]([https://img.shields.io/github/workflow/status/your-username/vite-react-todo-list/Build%20and%20Test)](https://github.com/your-username/vite-react-todo-list/actions](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white))
 
 Welcome to the Vite and React Todo List project! This application allows you to manage your tasks with ease. You can add and remove items as needed, and the user interface is stylized using Tailwind CSS.
 
